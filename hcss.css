@@ -1,0 +1,35 @@
+html,body{
+    width:100vw
+    height:100vh;
+}
+.list-items
+{
+    display:flex;
+}
+.li{
+    width:70px;
+}
+a{
+    text-decoration:none;
+}
+body{
+    line-height:1.5;
+}
+dt{
+    font-weight: 550;
+}
+dd{
+    padding-left: 40px;
+}
+.dt{
+    font-size: large;
+    font-weight: 500;
+}
+.dd{
+    font-size:larger;
+    color:blue;
+    text-decoration: none;
+}
+a:hover{
+    color:red;
+}
